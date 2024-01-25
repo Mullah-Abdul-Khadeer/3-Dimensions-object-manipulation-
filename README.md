@@ -20,9 +20,13 @@ Testing :02
   Final goal :
        The main objective is to get data for training ML models to replicate realistic hand movements .
   i) Using the opencv package we are able to track and visualize the vectors and joints in the hand
-  ii) And using micro controler we are able to replicate the movement
+
+   ii) And using micro controler we are able to replicate the movement
+
   iii) The joint movement data is recorded and simplified to two units "0" and "1" . Which will denote which finger are open at any instance of time .
        but due to processing capability restriction we are able to get the time stamps down to 1-2 sec. And the data is recorded in the form of an array
        ex: [1,1,1,1,1] - this would denote all fingers are closed  , [0,0,0,0,0] this would denote an open hand .
+
   iv) The final time stamped data is directly recorded into excel file thorugh serial port connection from the arduino .
+
   v) This data is to be used for further training ML models
