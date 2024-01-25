@@ -26,4 +26,3 @@ Testing :02
        ex: [1,1,1,1,1] - this would denote all fingers are closed  , [0,0,0,0,0] this would denote an open hand .
   iv) The final time stamped data is directly recorded into excel file thorugh serial port connection from the arduino .
   v) This data is to be used for further training ML models
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
