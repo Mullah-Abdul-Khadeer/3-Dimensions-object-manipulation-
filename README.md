@@ -30,3 +30,5 @@ Testing :02
   iv) The final time stamped data is directly recorded into excel file thorugh serial port connection from the arduino .
 
   v) This data is to be used for further training ML models
+
+  CO-creator : Chaitanya naidu
